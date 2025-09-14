@@ -72,6 +72,16 @@ const Portfolio = () => {
             >
               Contact Me
             </Button>
+            <Button 
+              size="lg" 
+              variant="outline" 
+              className="glow-border hover-glow bg-transparent text-neon-green border-neon-green hover:bg-neon-green hover:text-background"
+              asChild
+            >
+              <a href="/resume.pdf" download="Harika_Komati_Reddy_Resume.pdf">
+                Download Resume
+              </a>
+            </Button>
           </div>
         </div>
         
