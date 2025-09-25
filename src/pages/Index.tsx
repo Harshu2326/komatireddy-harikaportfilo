@@ -498,7 +498,7 @@ const Portfolio = () => {
         <div className="container mx-auto max-w-6xl">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-muted-foreground">
-              © 2025 Harika Komati Reddy | Built with 💻 & ☁️
+              © 2025 Harika Komati Reddy | Designed By KOMATI REDDY HARIKA
             </p>
             <div className="flex gap-6">
               <button 
