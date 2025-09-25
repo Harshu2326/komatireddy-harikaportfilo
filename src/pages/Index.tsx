@@ -335,6 +335,7 @@ const Portfolio = () => {
           
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
+              { title: "Data Analytics Job Simulation", issuer: "Quantium Forage", year: "2025", icon: BarChart3 },
               { title: "NLP Using Python", issuer: "Infosys Wingspan", year: "2025", icon: Brain },
               { title: "Cybersecurity Analyst", issuer: "Forage", year: "2025", icon: Award },
               { title: "Python for Data Science", issuer: "Infosys Wingspan", year: "2024", icon: Code },
